@@ -1,0 +1,1 @@
+# The-Trust-Hackathon-2018-Oracle
