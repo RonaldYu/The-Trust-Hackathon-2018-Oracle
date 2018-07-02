@@ -1,9 +1,12 @@
 # The-Trust-Hackathon-2018-Oracle
 
 The best visualization and creative data application for The Trust Hackathon
-honor dateJul 2018  honor issuerOracle Cloud and The Prince's Trust
 
-honor descriptionWe were successful in integrating a variety of open data sets with different granularities of time and geography. 
+Date: Jul 2018  
+
+Issuer: Oracle Cloud and The Prince's Trust
+
+We were successful in integrating a variety of open data sets with different granularities of time and geography. 
 
 1. Combining education and employment data through geography data 
 
